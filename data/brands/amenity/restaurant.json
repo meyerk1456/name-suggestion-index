@@ -10474,6 +10474,16 @@
         "name:zh-Hans": "鼎泰丰",
         "name:zh-Hant": "鼎泰豐"
       }
+    },
+    {
+      "displayName": "Mito",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Mito",
+        "brand:wikidata": "Q130044289",
+        "name": "Mito",
+        "amenity": "restaurant"
+      }
     }
   ]
 }
