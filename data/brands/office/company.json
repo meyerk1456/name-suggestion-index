@@ -149,6 +149,16 @@
       }
     },
     {
+      "displayName": "Aramark",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Aramark",
+        "brand:wikidata": "Q625708",
+        "name": "Aramark",
+        "office": "company"
+      }
+    },
+    {
       "displayName": "Элемент Лизинг",
       "id": "e46bdb-eb236f",
       "locationSet": {"include": ["ru"]},
