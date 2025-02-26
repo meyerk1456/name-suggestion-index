@@ -145,7 +145,7 @@
     {
       "displayName": "FedEx Office",
       "id": "fedexoffice-27cb18",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["us", "ca"]},
       "matchNames": ["federal express"],
       "matchTags": ["shop/copyshop"],
       "tags": {
