@@ -8082,6 +8082,16 @@
         "name:zh": "超市发",
         "shop": "convenience"
       }
+    },
+    {
+      "displayName": "Needs Convenience",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Needs Convenience",
+        "brand:wikidata": "Q6986673",
+        "name": "Needs Convenience",
+        "shop": "convenience"
+      }
     }
   ]
 }
