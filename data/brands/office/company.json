@@ -157,6 +157,16 @@
         "name": "Элемент Лизинг",
         "office": "company"
       }
+    },
+    {
+      "displayName": "Air Canada",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Air Canada",
+        "brand:wikidata": "Q185339",
+        "name": "Air Canada",
+        "office": "company"
+      }
     }
   ]
 }
