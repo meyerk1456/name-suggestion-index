@@ -376,6 +376,16 @@
         "name:zh": "耀才證券",
         "office": "financial_advisor"
       }
+    },
+    {
+      "displayName": "Alberta Investment Management Corporation",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Alberta Investment Management Corporation",
+        "brand:wikidata": "Q4711753",
+        "name": "Alberta Investment Management Corporation",
+        "office": "financial_advisor"
+      }
     }
   ]
 }
