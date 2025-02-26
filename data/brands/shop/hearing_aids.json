@@ -18,7 +18,7 @@
     {
       "displayName": "Amplifon",
       "id": "amplifon-6f1b2d",
-      "locationSet": {"include": ["001"]},
+      "locationSet": {"include": ["it", "gb", "us", "ca"]},
       "matchNames": [
         "amplifon deutschland gmbh",
         "amplifon france"
