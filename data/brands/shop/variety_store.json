@@ -1428,6 +1428,16 @@
       }
     },
     {
+      "displayName": "Great Canadian Dollar Store",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Great Canadian Dollar Store",
+        "brand:wikidata": "Q17107560",
+        "name": "Great Canadian Dollar Store",
+        "shop": "variety_store"
+      }
+    },
+    {
       "displayName": "無印良品",
       "id": "muji-e1b193",
       "locationSet": {"include": ["jp"]},
