@@ -169,7 +169,7 @@
     {
       "displayName": "Carquest",
       "id": "carquest-bb9baa",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us","ca"]},
       "matchNames": [
         "baxter",
         "baxter auto parts"
