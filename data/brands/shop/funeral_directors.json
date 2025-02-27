@@ -183,6 +183,16 @@
         "name:ja": "公益社",
         "shop": "funeral_directors"
       }
+    },
+    {
+      "displayName": "Dignity Memorial",
+      "locationSet": {"include": ["ca","us"]},
+      "tags": {
+        "brand": "Dignity Memorial",
+        "brand:wikidata": "Q96096378",
+        "name": "Dignity Memorial",
+        "shop": "funeral_directors"
+      }
     }
   ]
 }
