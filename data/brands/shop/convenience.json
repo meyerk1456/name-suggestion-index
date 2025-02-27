@@ -8110,6 +8110,16 @@
       }
     },
     {
+      "displayName": "Corner Store",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Corner Store",
+        "name": "Corner Store",
+        "brand:wikidata": "Q132801808",
+        "shop": "convenience"
+      }
+    },
+    {
       "displayName": "超市发",
       "id": "bjcsf-da9ca7",
       "locationSet": {"include": ["cn"]},
