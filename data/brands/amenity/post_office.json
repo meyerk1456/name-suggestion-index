@@ -612,6 +612,16 @@
         "name:zh": "顺丰速运",
         "short_name": "顺丰"
       }
+    },
+    {
+      "displayName": "Canada Post",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Canada Post",
+        "brand:wikidata": "Q1032001",
+        "name": "Canada Post",
+        "amenity": "post_office"
+      }
     }
   ]
 }
