@@ -157,6 +157,16 @@
         "name": "Элемент Лизинг",
         "office": "company"
       }
+    },
+    {
+      "displayName": "EVduty",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "EVduty",
+        "name": "EVduty",
+        "brand:wikidata": "Q129970126",
+        "office": "company"
+      }
     }
   ]
 }
