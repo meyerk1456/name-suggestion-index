@@ -157,6 +157,16 @@
         "name": "Элемент Лизинг",
         "office": "company"
       }
+    },
+    {
+      "displayName": "Save on Energy",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Save on Energy",
+        "name": "Save on Energy",
+        "brand:wikidata": "Q132829667",
+        "office": "company"
+      }
     }
   ]
 }
