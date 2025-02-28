@@ -686,6 +686,16 @@
         "name:en": "Union Rental Car",
         "name:zh": "聯邦租車"
       }
+    },
+    {
+      "displayName": "Zipcar",
+      "locationSet": {"include": ["ca","us"]},
+      "tags": {
+        "brand": "Zipcar",
+        "name": "Zipcar",
+        "brand:wikidata": "Q1069924",
+        "amenity": "car_rental"
+      }
     }
   ]
 }
