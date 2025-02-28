@@ -100,10 +100,10 @@
     {
       "displayName": "Knights of Columbus",
       "id": "knightsofcolumbuscouncil-7c1650",
-      "locationSet": {"include": ["us"]},
+      "locationSet": {"include": ["us","ca"]},
       "tags": {
         "amenity": "social_centre",
-        "brand": "KofC",
+        "brand": "Knights of Columbus",
         "brand:wikidata": "Q1046799",
         "name": "Knights of Columbus Council",
         "short_name": "KofC"
