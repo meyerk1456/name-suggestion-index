@@ -146,6 +146,16 @@
         "name": "Студия Слуха",
         "shop": "medical_supply"
       }
+    },
+    {
+      "displayName": "HearingLife",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "HearingLife",
+        "name": "HearingLife",
+        "brand:wikidata": "Q132831019",
+        "shop": "medical_supply"
+      }
     }
   ]
 }
