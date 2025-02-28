@@ -2759,6 +2759,17 @@
         "name:ja": "靴専科",
         "shop": "shoes"
       }
+    },
+    {
+      "displayName": "Yellow Shoes",
+      "locationSet": {"include": ["ca"]},
+      "matchNames": ["Yellow"],
+      "tags": {
+        "brand": "Yellow Shoes",
+        "name": "Yellow Shoes",
+        "brand:wikidata": "Q129080319",
+        "shop": "shoes"
+      }
     }
   ]
 }
