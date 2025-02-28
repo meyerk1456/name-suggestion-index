@@ -3423,6 +3423,16 @@
         "name:zh": "華南保險",
         "office": "insurance"
       }
+    },
+    {
+      "displayName": "Westland Insurance",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Westland Insurance",
+        "name": "Westland Insurance",
+        "brand:wikidata": "Q127388610",
+        "office": "insurance"
+      }
     }
   ]
 }
