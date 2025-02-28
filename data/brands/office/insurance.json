@@ -3409,6 +3409,16 @@
       }
     },
     {
+      "displayName": "Insurance Corporation of British Columbia",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "Insurance Corporation of British Columbia",
+        "name": "Insurance Corporation of British Columbia",
+        "brand:wikidata": "Q16986480",
+        "office": "insurance"
+      }
+    },
+    {
       "displayName": "華南保險",
       "id": "southchinainsurance-6809cb",
       "locationSet": {"include": ["tw"]},
