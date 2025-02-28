@@ -41,6 +41,16 @@
         "brand:wikidata": "Q17143517",
         "fee": "yes"
       }
+    },
+    {
+      "displayName": "Impark",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Impark",
+        "name": "Impark",
+        "brand:wikidata": "Q6006077",
+         "amenity": "parking"
+      }
     }
   ]
 }
