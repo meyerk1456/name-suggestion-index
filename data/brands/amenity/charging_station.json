@@ -521,6 +521,16 @@
         "name:en": "NIO Power Charger",
         "name:zh": "蔚来超充站"
       }
+    },
+    {
+      "displayName": "SWTCH",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "SWTCH",
+        "name": "SWTCH",
+        "brand:wikidata": "Q127502151",
+        "amenity": "charging_station"
+      }
     }
   ]
 }
