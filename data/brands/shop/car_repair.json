@@ -1678,6 +1678,16 @@
         "name:zh": "歐特耐養護中心",
         "shop": "car_repair"
       }
+    },
+    {
+      "displayName": "NAPA AutoPro",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "brand": "NAPA AutoPro",
+        "name": "NAPA AutoPro",
+        "brand:wikidata": "Q125938497",
+        "shop": "car_repair"
+      }
     }
   ]
 }
