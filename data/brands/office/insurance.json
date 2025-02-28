@@ -3423,6 +3423,16 @@
         "name:zh": "華南保險",
         "office": "insurance"
       }
+    },
+    {
+      "displayName": "Hub International",
+      "locationSet": {"include": ["ca", "us"]},
+      "tags": {
+        "brand": "Hub International",
+        "name": "Hub International",
+        "brand:wikidata": "Q5926677",
+        "office": "insurance"
+      }
     }
   ]
 }
